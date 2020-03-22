@@ -5,7 +5,7 @@
 https://kid421.github.io/Web_HC_ZL_GoToElement/
 
 # CDN
-jquery CDN
+jQuery CDN
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
